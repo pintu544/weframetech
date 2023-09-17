@@ -1,0 +1,354 @@
+.NAV {
+  background-color: #15132b;
+  height: 120px;
+  position: relative;
+  width: 1920px;
+}
+
+.NAV .searchbox {
+  height: 68px;
+  left: 395px;
+  position: absolute;
+  top: 26px;
+  width: 493px;
+}
+
+.NAV .overlap-group {
+  background-color: #1c1a33;
+  border-radius: 46px;
+  height: 68px;
+  position: relative;
+  width: 491px;
+}
+
+.NAV .search {
+  height: 28px;
+  left: 38px;
+  position: absolute;
+  top: 20px;
+  width: 28px;
+}
+
+.NAV .text-wrapper {
+  color: #aaaaaa;
+  font-family: "Cairo", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 86px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+}
+
+.NAV .div {
+  color: var(--primary);
+  font-family: "Cairo", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 965px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 44px;
+}
+
+.NAV .group {
+  height: 68px;
+  left: 1409px;
+  position: absolute;
+  top: 26px;
+  width: 179px;
+}
+
+.NAV .overlap {
+  background-color: #1c1a33;
+  border-radius: 46px;
+  height: 68px;
+  position: relative;
+  width: 177px;
+}
+
+.NAV .text-wrapper-2 {
+  color: var(--white);
+  font-family: "Cairo", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 62px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+}
+
+.NAV .arrow {
+  height: 8px;
+  left: 138px;
+  position: absolute;
+  top: 30px;
+  width: 15px;
+}
+
+.NAV .united-states {
+  height: 28px;
+  left: 20px;
+  position: absolute;
+  top: 21px;
+  width: 28px;
+}
+
+.NAV .profile {
+  height: 57px;
+  left: 1647px;
+  position: absolute;
+  top: 31px;
+  width: 223px;
+}
+
+.NAV .profile-2 {
+  height: 55px;
+  left: 81px;
+  position: absolute;
+  top: 1px;
+  width: 146px;
+}
+
+.NAV .overlap-group-2 {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.NAV .text-wrapper-3 {
+  color: var(--white);
+  font-family: "Cairo", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.NAV .text-wrapper-4 {
+  color: var(--dark-05);
+  font-family: "Cairo", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 29px;
+}
+
+.NAV .img {
+  height: 8px;
+  left: 127px;
+  position: absolute;
+  top: 24px;
+  width: 15px;
+}
+
+.NAV .profile-picture {
+  background-color: #c4c4c4;
+  border-radius: 14px;
+  height: 57px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 57px;
+}
+
+.NAV .separator {
+  background-color: var(--dark-04);
+  border-radius: 8px;
+  height: 56px;
+  left: 1616px;
+  position: absolute;
+  top: 32px;
+  width: 1px;
+}
+
+.NAV .icons {
+  height: 44px;
+  left: 1124px;
+  position: absolute;
+  top: 30px;
+  width: 231px;
+}
+
+.NAV .folder {
+  height: 44px;
+  left: 195px;
+  position: absolute;
+  top: 0;
+  width: 36px;
+}
+
+.NAV .overlap-2 {
+  height: 44px;
+  position: relative;
+  width: 38px;
+}
+
+.NAV .office {
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 16px;
+  width: 28px;
+}
+
+.NAV .dot-warning {
+  height: 26px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.NAV .div-wrapper {
+  background-color: #e328af;
+  border: 3px solid;
+  border-color: #15132b;
+  border-radius: 14px;
+  box-shadow: 0px 14px 28px #5dceff1f;
+  height: 32px;
+  left: -3px;
+  position: relative;
+  top: -3px;
+  width: 32px;
+}
+
+.NAV .text-wrapper-5 {
+  color: var(--dark-01);
+  font-family: "Cairo", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.NAV .check {
+  height: 43px;
+  left: 129px;
+  position: absolute;
+  top: 0;
+  width: 39px;
+}
+
+.NAV .overlap-3 {
+  height: 43px;
+  position: relative;
+  width: 41px;
+}
+
+.NAV .img-2 {
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 15px;
+  width: 28px;
+}
+
+.NAV .dot-counter {
+  height: 26px;
+  left: 13px;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.NAV .overlap-group-3 {
+  background-color: #5dceff;
+  border-radius: 14px;
+  box-shadow: 0px 14px 28px #5dceff1f;
+  height: 26px;
+  position: relative;
+  width: 26px;
+}
+
+.NAV .text-wrapper-6 {
+  color: var(--dark-01);
+  font-family: "Cairo", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.NAV .activities {
+  height: 43px;
+  left: 68px;
+  position: absolute;
+  top: 0;
+  width: 34px;
+}
+
+.NAV .overlap-4 {
+  height: 43px;
+  position: relative;
+  width: 36px;
+}
+
+.NAV .overlap-group-wrapper {
+  height: 25px;
+  left: 9px;
+  position: absolute;
+  top: 0;
+  width: 27px;
+}
+
+.NAV .overlap-group-4 {
+  background-color: #5dceff;
+  border-radius: 14px;
+  box-shadow: 0px 14px 28px #5dceff1f;
+  height: 25px;
+  position: relative;
+  width: 25px;
+}
+
+.NAV .text-wrapper-7 {
+  color: var(--dark-01);
+  font-family: "Cairo", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.NAV .notification {
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 39px;
+}
+
+.NAV .text-wrapper-8 {
+  color: var(--dark-01);
+  font-family: "Cairo", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
